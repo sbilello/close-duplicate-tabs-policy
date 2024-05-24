@@ -30,4 +30,4 @@ If you have any questions or concerns about this privacy policy, please contact 
 
 By using the "Close Duplicate Tabs" extension, you consent to this privacy policy.
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X5YGVRU)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://coindrop.to/sergio)
