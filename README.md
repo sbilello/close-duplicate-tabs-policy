@@ -30,5 +30,4 @@ If you have any questions or concerns about this privacy policy, please contact 
 
 By using the "Close Duplicate Tabs" extension, you consent to this privacy policy.
 
-## 8. Support
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X5YGVRU)
